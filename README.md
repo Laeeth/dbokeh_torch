@@ -1,5 +1,6 @@
 # dbokeh_torch
-Port of minimal Facebook bokeh LUA bindings for iTorch to the D programming language
+Under development: a port of minimal Facebook bokeh LUA bindings for iTorch to the D programming language
+Status - only just started working on this.
 Seems an easier place to start than to attempt to port the entire python bindings
 Using Sonke Ludwig's new Phobos candidate JSON library:
 https://s-ludwig.github.io/std_data_json/
