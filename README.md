@@ -1,3 +1,10 @@
+# dbokeh_torch
+Port of minimal Facebook bokeh LUA bindings for iTorch to the D programming language
+Seems an easier place to start than to attempt to port the entire python bindings
+Using Sonke Ludwig's new Phobos candidate JSON library:
+https://s-ludwig.github.io/std_data_json/
+
+
 # iTorch
 iTorch is an [IPython](http://ipython.org) Kernel for Torch, with plotting (using [Bokeh.js](http://bokeh.pydata.org/docs/gallery.html) plots) and visualization of images, video and audio
 
